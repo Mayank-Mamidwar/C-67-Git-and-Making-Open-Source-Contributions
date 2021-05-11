@@ -1,7 +1,12 @@
+Time=18:10 CHANGES FOR  ADDING TO THE STAGE LEVEL FOR THE FIRST TIME
 In cricket, we have 4 primary roles, without these roles cricket would not be able to function.
 There are 2 teams consisting of 11 people each.One teams gets to bat, while the other does the balling
 the fielding and wicket keeping.1 baller comes up and balls the batter, each baller get 6 balls.
 If the ball hits the wicket, the batter is out and the next batter comes up.
 
-Time=18:15 CHANGES AFTER ADDING TO STAGE LEVEL FOR THE FIRST TIME
+Time=18:15 CHANGES FOR ADDING TO THE STAGE LEVEL FOR THE SECOND TIME
 This might sound very bland, but it is a very fun game, and is played internationaly.
+
+Time=18:10 CHANGES FOR  ADDING TO THE STAGE LEVEL FOR THE THIRD TIME
+Stories are fascinating thing, they make our brains think and imaging. They usually have
+a goal or moral at the end. Stories also come in differant forms.
